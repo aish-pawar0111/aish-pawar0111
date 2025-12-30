@@ -1,6 +1,6 @@
-╭── 🌸✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 ✨🌸 ──╮  
-      💖 𝓗𝓲, 𝓘'𝓶 𝓐𝓲𝓼𝓱𝔀𝓪𝓻𝔂𝓪 𝓟𝓪𝔀𝓪𝓻 💖  
-╰────────────────────────────────────╯  
+    🌸✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 ✨🌸 
+       𝓗𝓲, 𝓘'𝓶 𝓐𝓲𝓼𝓱𝔀𝓪𝓻𝔂𝓪 𝓟𝓪𝔀𝓪𝓻 👋
+ 
 
 🌷💻 Aspiring Software Developer | 🎓 Engineer | 🌱 Dreamer & Doer  
 
@@ -10,7 +10,6 @@
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 💖✨ About Me ✨💖  
 🌷 Engineering student passionate about software development  
 🧠 Logical thinker & problem solver  
@@ -19,7 +18,6 @@
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 💻✨ Tech Stack ✨💻  
 
 ### 🌷 Programming Languages  
@@ -38,7 +36,6 @@
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 🌱✨ Currently Working On ✨🌱  
 🚀 Backend development with Spring Boot  
 📘 Improving problem-solving skills  
@@ -47,7 +44,6 @@
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 🎯✨ Learning Goals ✨🎯  
 📌 Advanced Java & Spring Boot  
 📌 Database design & optimization  
@@ -56,7 +52,6 @@
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 📂💖 Projects & Work 💖📂  
 ✨ My GitHub repositories include:  
 📁 Academic & final year projects  
@@ -66,15 +61,13 @@
 🌟 *More beautiful projects coming soon!*  
 
 ---
-
-🌸━━━━━━━━━━━━━━━🌸  
+ 
 ## 🌸🤍 Let’s Connect 🤍🌸  
 💼 LinkedIn:https://www.linkedin.com/in/aishwaryapawar360
 📧 Email: aishu.pawar124@gmail.com
 
 ---
 
-🌸━━━━━━━━━━━━━━━🌸  
 ## 💫✨ A Quote I Love ✨💫  
 > *"She turned her dreams into code and her code into reality."* 💻🌸  
 

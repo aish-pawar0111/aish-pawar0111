@@ -21,7 +21,7 @@
 - 👯 Looking to collaborate on **Java / Backend projects**
 - 🤝 Open to learning and contributing to **Spring Boot applications**
 - 💬 Ask me about **Java, Spring Boot, Basics of Backend Development**
-- 📫 Reach me at **aishu.pawar124@gmail.com**
+- 📫 Reach me at **aishwarya.pawar01111@gmail.com**
 
 ---
 

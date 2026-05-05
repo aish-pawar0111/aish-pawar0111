@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Bachelor of Technology (B.Tech) student  
-- 💻 Interested in **Software Development & Backend Engineering**
+- 💻 Interested in **Software Development & Android Development **
 - 🌱 Currently learning and building projects using **Java & Spring Boot**
 - 🧠 Focused on **problem-solving, clean code, and real-world applications**
 

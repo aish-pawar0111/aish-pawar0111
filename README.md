@@ -10,7 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Bachelor of Technology (B.Tech) student  
+- 🎓 Bachelor of Technology student  
 - 💻 Interested in **Software Development & Android Development **
 - 🌱 Currently learning and building projects using **Java & Spring Boot**
 - 🧠 Focused on **problem-solving, clean code, and real-world applications**
@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Collaboration & Learning
-- 👯 Looking to collaborate on **Java / Backend projects**
+- 👯 Looking to collaborate on **Java / Backend projects/App Development**
 - 🤝 Open to learning and contributing to **Spring Boot applications**
 - 💬 Ask me about **Java, Spring Boot, Basics of Backend Development**
 - 📫 Reach me at **aishwarya.pawar01111@gmail.com**
